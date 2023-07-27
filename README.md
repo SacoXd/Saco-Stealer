@@ -1,13 +1,11 @@
-<h1 align="center"> Creal Stealer </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
+<h1 align="center"> Saco Stealer </h1> 
+<p align= "center"> <kbd> <img  src="https://raw.githubusercontent.com/SacoXd/injection/main/335dfec42a1b26bf6274892572783339.jpg"width="420"> </kbd><br><br>
 
 
-
-<p align="center"><a href="https://t.me/CrealStealer" target="_blank">telegram group</a>
 
 
 <h2 align="center"> created by; </h1> 
-<p align="center"><a href="https://github.com/Ayhuuu" target="_blank">ayhu</a></p><p align="center"><a href="https://github.com/Art0nus" target="_blank">artonus</a></p>
+<p align="center"><a href="https://github.com/SacoXd" target="_blank">ayhu</a></p><p align="center">
 
 
 
